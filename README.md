@@ -1,2 +1,2 @@
 # Text-mining-and-Analytics-
-Text mining and analytic
+Text mining and analytics
