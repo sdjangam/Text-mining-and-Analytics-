@@ -8,6 +8,13 @@ Text mining includes techniques for mining and analyzing text data to discover i
 This module will introduce the learner to text mining and text manipulation basics. We cover basics of text processing including regular expressions in the R and Python modules itself. Also, I talked about text classification in the machine learning module. Further, in this module, I will talk about further interesting topics in text mining such as n-gram models, Named Entity Recognition, Natural Language Processing, Sentiment Analysis, and Summarization.
 
 
+
+![image](https://user-images.githubusercontent.com/67232573/114065421-83712200-984f-11eb-9b5e-7ed80c915049.png)
+
+
+
+
+
 # N-gram Models
 
 Next Word Prediction
@@ -52,6 +59,16 @@ Python code: Computing perplexity
 
 
 
+
+![image](https://user-images.githubusercontent.com/67232573/114065545-a3084a80-984f-11eb-9f0f-050d9c0bfc2e.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/114065585-b1566680-984f-11eb-8973-9d175e0de7ef.png)
+
+
+
 # Named Entity Recognition
 
 What is NER?
@@ -79,6 +96,14 @@ Python Code: Part of Speech Tagging and NER
 Python Code: Chunking/NER visualization
 
 Python Code: Get complete Person Names and Location Names from any text
+
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/114065907-ff6b6a00-984f-11eb-80bf-711108710317.png)
+
+
+
 
 
 # Natural Language Processing
@@ -113,6 +138,14 @@ Python Code: Text Processing with Conference Abstracts Dataset
 
 Python Code: Text Classification for Reuters Dataset using Scikit-Learn
 
+
+
+![image](https://user-images.githubusercontent.com/67232573/114066017-1b6f0b80-9850-11eb-980d-947affaec9ac.png)
+
+
+
+
+
 # Sentiment Analysis
 
 Applications of Sentiment Analysis
@@ -138,6 +171,15 @@ Python Code: Basic Sentiment Analysis using Naive Bayes and sentiment dictionari
 Python Code: Sentiment Analysis on Movie Reviews Dataset
 
 Python Code: Sentiment analysis on Twitter Data obtained via Tweepy
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/114066106-33468f80-9850-11eb-8e68-d03c6a92fc6f.png)
+
+
+
+
+
 
 # Summarization
 
@@ -176,6 +218,15 @@ Python Code: LexRank using sumy
 Python Code: Summarization using PyTeaser
 
 Python Code: Text Rank using summa
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/114066221-56713f00-9850-11eb-957b-34bd50b3fcde.png)
+
+
+
+
+
 
 # Topic Modeling
 
@@ -223,6 +274,14 @@ Mini Project: Topic Modeling with Gensim – Mallet and Hyper-parameter Tuning
 
 Mini Project: Topic Modeling with Gensim – LDA Model analysis
 
+
+
+![image](https://user-images.githubusercontent.com/67232573/114066288-6d179600-9850-11eb-9cc3-f930d23c70cb.png)
+
+
+
+
+
 # Word Representation Learning
 
 What are word representations? Where can you use word vectors?
@@ -246,3 +305,12 @@ Python Code: Another gensim model example using Text8 corpus
 Python Code: GloVe Example
 
 Python Code: Using Stanford’s GloVe Embedding
+
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/114066494-a4864280-9850-11eb-8236-7d60b359f1c1.png)
+
+
+
+
