@@ -25,7 +25,7 @@ Text Generation using n-gram models
 
 Handling low frequency n-grams
 
-Google n-grams
+Google n-gram
 
 Evaluation of n-gram models
 
