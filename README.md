@@ -27,7 +27,7 @@ Handling low frequency n-grams
 
 Google n-gram
 
-Evaluation of n-gram models
+Evaluation of n-gram model
 
 Information Retrieval using language models
 
